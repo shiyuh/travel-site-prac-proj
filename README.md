@@ -1,8 +1,9 @@
 A practice front-end project using the following:
 
 * Languages: HTML, CSS, JavaScript
+* Package management: npm
+* CSS pre-processor: PostCSS
 * CSS architecture: BEM
 * Task runner: Gulp.js
-* CSS pre-processor: PostCSS
+* Module bundler: webpack
 * Version control: Git/GitHub
-* Package management: npm
