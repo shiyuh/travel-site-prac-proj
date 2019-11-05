@@ -1,4 +1,4 @@
-A practice front-end project using the following:
+A responsive, mobile-first practice front-end project using the following:
 
 * Languages: HTML, CSS, JavaScript
 * Package management: npm
